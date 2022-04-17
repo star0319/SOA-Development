@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<SchemaMap xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Compressed="true">
+  <SchemaEntry OriginalSchemaUri="C:\Users\84158\Desktop\OneDrive - 南京大学\pc\myfile\learning_materia\大三下\soa\assignment\2\第10组作业2\Course.xsd" ResourceSchemaUri="Schema1.zxsd" TargetNamespaceUri="http://jw.nju.edu.cn/schema" ExplicitlyLoad="false" />
+  <SchemaEntry OriginalSchemaUri="C:\Users\84158\Desktop\OneDrive - 南京大学\pc\myfile\learning_materia\大三下\soa\assignment\2\第10组作业2\Department.xsd" ResourceSchemaUri="Schema2.zxsd" TargetNamespaceUri="http://www.nju.edu.cn/schema" ExplicitlyLoad="true" />
+  <SchemaEntry OriginalSchemaUri="C:\Users\84158\Desktop\OneDrive - 南京大学\pc\myfile\learning_materia\大三下\soa\assignment\2\第10组作业2\PersonInfo.xsd" ResourceSchemaUri="Schema3.zxsd" TargetNamespaceUri="http://www.nju.edu.cn/schema" ExplicitlyLoad="false" />
+  <SchemaEntry OriginalSchemaUri="C:\Users\84158\Desktop\OneDrive - 南京大学\pc\myfile\learning_materia\大三下\soa\assignment\2\第10组作业2\Student.xsd" ResourceSchemaUri="Schema4.zxsd" TargetNamespaceUri="http://jw.nju.edu.cn/schema" ExplicitlyLoad="false" />
+  <SchemaEntry OriginalSchemaUri="C:\Users\84158\Desktop\OneDrive - 南京大学\pc\myfile\learning_materia\大三下\soa\assignment\2\第10组作业2\ScoreList.xsd" ResourceSchemaUri="Schema5.zxsd" TargetNamespaceUri="http://jw.nju.edu.cn/schema" ExplicitlyLoad="false" />
+  <SchemaEntry OriginalSchemaUri="C:\Users\84158\Desktop\OneDrive - 南京大学\pc\myfile\learning_materia\大三下\soa\assignment\2\第10组作业2\StudentList.xsd" ResourceSchemaUri="Schema6.zxsd" TargetNamespaceUri="http://www.nju.edu.cn/schema" ExplicitlyLoad="true" />
+</SchemaMap>

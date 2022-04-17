@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  A list of all the schema that should be used to generate Code from.
+      The filenames can be local paths, UNC or urls.
+      The relative filenames resolved relative to this file.
+      The file must contain at least one Schema Entry
+-->
+<SchemaSet xmlns="http://www.liquid-technologies.com/SchemaSet1.0">
+    <Schema schemaType="XSD">C:\Users\84158\Desktop\OneDrive - 南京大学\pc\myfile\learning_materia\大三下\soa\assignment\2\第10组作业2\Course.xsd</Schema>
+    <Schema schemaType="XSD">C:\Users\84158\Desktop\OneDrive - 南京大学\pc\myfile\learning_materia\大三下\soa\assignment\2\第10组作业2\Department.xsd</Schema>
+    <Schema schemaType="XSD">C:\Users\84158\Desktop\OneDrive - 南京大学\pc\myfile\learning_materia\大三下\soa\assignment\2\第10组作业2\PersonInfo.xsd</Schema>
+    <Schema schemaType="XSD">C:\Users\84158\Desktop\OneDrive - 南京大学\pc\myfile\learning_materia\大三下\soa\assignment\2\第10组作业2\Student.xsd</Schema>
+    <Schema schemaType="XSD">C:\Users\84158\Desktop\OneDrive - 南京大学\pc\myfile\learning_materia\大三下\soa\assignment\2\第10组作业2\ScoreList.xsd</Schema>
+    <Schema schemaType="XSD">C:\Users\84158\Desktop\OneDrive - 南京大学\pc\myfile\learning_materia\大三下\soa\assignment\2\第10组作业2\StudentList.xsd</Schema>
+</SchemaSet>
